@@ -15515,4 +15515,13 @@ export const icons: ReadonlyArray<IconEntry> = [
     published_in: 1.0,
     updated_in: 1.0,
   },
+  {
+    name: "floor-plan",
+    pascal_name: "FloorPlan",
+    categories: [IconCategory.MAP, IconCategory.OBJECTS],
+    figma_category: FigmaCategory.MAP,
+    tags: ["map", "construction", "gate"],
+    published_in: 1.4,
+    updated_in: 1.4,
+  }
 ];
